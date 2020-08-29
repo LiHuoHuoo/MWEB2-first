@@ -1,0 +1,23 @@
+{
+  "id": "1948001",
+  "name": "LZXM",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "203113",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "8003000",
+      "name": "wode-",
+      "font_class": "wode-",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    }
+  ]
+}
